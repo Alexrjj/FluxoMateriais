@@ -1,0 +1,7 @@
+SOB: A020031060
+
+BUG:
+Quando resulta apenas uma linha de material, o comando SHIFT + Seta para baixo copia até o final da planilha, causando bug no Excel.
+
+SOLUÇÃO:
+- Besear a detecção de linhas utilizando o bloco de detecção de linhas da coluna ao lado.
