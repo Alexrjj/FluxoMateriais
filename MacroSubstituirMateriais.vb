@@ -1,6 +1,6 @@
 'Esta macro substitui materiais fora padrão através de códigos pré definidos
 'Basta preencher o código atual no array "fndList" e seu código substituto no array "rplcList", na ordem correta.
-Sub Multi_FindReplace()
+Sub Substitui_Materiais()
 
 Dim fndList As Variant
 Dim rplcList As Variant
